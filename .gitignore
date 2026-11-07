@@ -1,0 +1,6 @@
+# Arquivos temporários do SQLite e do sistema operacional.
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+Thumbs.db
+.DS_Store
